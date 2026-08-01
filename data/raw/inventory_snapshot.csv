@@ -1,0 +1,16 @@
+Inventory_Snapshot_Date,Product_ID,Warehouse,Stock_On_Hand,Units_On_Order,Reorder_Point,Lead_Time_Days,Last_Restock_Date,Stock_Status
+2025-12-31,P-001,Central Hub,97,14,34,6,2025-12-20,Healthy
+2025-12-31,P-002,North Hub,61,21,36,19,2025-11-16,Healthy
+2025-12-31,P-003,North Hub,136,9,55,7,2025-11-21,Healthy
+2025-12-31,P-004,South Hub,33,3,18,6,2025-11-17,Healthy
+2025-12-31,P-005,Central Hub,97,4,38,10,2025-12-10,Healthy
+2025-12-31,P-006,South Hub,42,10,19,11,2025-12-14,Healthy
+2025-12-31,P-007,North Hub,51,2,41,20,2025-12-14,Watch
+2025-12-31,P-008,North Hub,61,30,49,18,2025-11-27,Watch
+2025-12-31,P-009,North Hub,30,0,23,10,2025-12-17,Watch
+2025-12-31,P-010,South Hub,110,1,95,15,2025-11-15,Watch
+2025-12-31,P-011,Central Hub,114,135,147,15,2025-12-02,Reorder Required
+2025-12-31,P-012,North Hub,66,123,144,15,2025-12-20,Reorder Required
+2025-12-31,P-013,South Hub,32,118,98,14,2025-12-09,Reorder Required
+2025-12-31,P-014,Central Hub,68,131,96,9,2025-12-19,Reorder Required
+2025-12-31,P-015,North Hub,114,197,137,8,2025-12-06,Reorder Required

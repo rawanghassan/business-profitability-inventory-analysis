@@ -1,0 +1,11 @@
+Table,Field,Description,Data_Type
+orders,Order_ID,Unique order-line identifier,Text
+orders,Order_Date,Date on which the customer placed the order,Date
+orders,Sales,Net sales value after discount,Currency
+orders,Shipping_Cost,Fulfilment shipping cost allocated to the order line,Currency
+products,Unit_Cost,Supplier acquisition cost per unit,Currency
+products,List_Price,Standard selling price before discounts,Currency
+products,Reorder_Point,Stock threshold that triggers replenishment,Whole number
+inventory_snapshot,Stock_On_Hand,Available stock on the snapshot date,Whole number
+inventory_snapshot,Units_On_Order,Inbound stock not yet received,Whole number
+inventory_snapshot,Stock_Status,Calculated operational stock classification,Text

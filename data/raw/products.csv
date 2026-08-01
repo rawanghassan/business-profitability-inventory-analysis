@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Supplier,Unit_Cost,List_Price,Reorder_Point,Lead_Time_Days,Opening_Stock
+P-001,Nexa Standing Desk,Office Furniture,Luma Imports,173.56,286.15,34,6,149
+P-002,Axis Ergonomic Chair,Office Furniture,Vertex Trade,119.02,205.39,36,19,118
+P-003,Axis Bookcase,Office Furniture,Orbit Supply Co.,71.49,112.88,55,7,163
+P-004,Flow Filing Cabinet,Office Furniture,Cedar Distribution,63.6,107.94,18,6,71
+P-005,Nexa Wireless Keyboard,Technology,Apex Wholesale,25.33,51.56,38,10,109
+P-006,Vanta USB-C Dock,Technology,Apex Wholesale,54.95,112.56,19,11,74
+P-007,Flow Webcam,Technology,Luma Imports,31.34,56.49,41,20,146
+P-008,Nexa Laser Printer,Technology,Vertex Trade,112.09,192.47,49,18,139
+P-009,Nexa Noise-Cancelling Headset,Technology,Apex Wholesale,63.69,125.5,23,10,134
+P-010,Vanta A4 Paper Pack,Office Supplies,Orbit Supply Co.,3.62,6.03,95,15,288
+P-011,Vanta Desk Organizer,Office Supplies,Orbit Supply Co.,7.93,14.78,147,15,462
+P-012,Axis Stapler,Office Supplies,Luma Imports,4.5,8.29,144,15,229
+P-013,Dura Notebook Set,Office Supplies,Apex Wholesale,6.33,12.16,98,14,250
+P-014,Flow Ink Cartridge,Office Supplies,Orbit Supply Co.,16.76,27.71,96,9,195
+P-015,Flow Label Roll,Office Supplies,Luma Imports,3.3,6.13,137,8,453

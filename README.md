@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![Dashboard Preview](dashboard.png)
+
 This project is an Excel-based business analytics case study for a fictional office supplies company called **Northstar Office Supplies**.
 
 The goal of the project is to analyze sales performance, profitability, discount impact, and inventory risk using a complete Excel workflow.
